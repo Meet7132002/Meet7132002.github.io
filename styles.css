@@ -9,7 +9,7 @@ body{
     margin:10px;
     margin-bottom: 30px;
     background:#006EFF;
-    border-radius:5px
+    border-radius:5px;
     box-shadow: 5px 8px #000000;    
 }
 
@@ -17,7 +17,7 @@ body{
     width:200px;
     border:2px solid#000000;
     padding:10px;
-    border-radius:5px
+    border-radius:5px;
 }
 
 h1{
