@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #BD6D3A;
+    /* background: url(images/); */
+}
+
+/* Structure */
+
+
+#content {
+    background: #fff;
+    padding: 5px;
+    width: 80%;
+    /* center horizontally */
+    margin: auto;
+    border-radius: 5px;
+}
+
+
+/* Navigation */
+
+#main-nav a {
+    /* removes the underline */
+    text-decoration: none;
+    background: #C7D3CF;
+    color: red;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#main-nav a:hover {
+    background: lightpink;
+}
+
+
+
+/* Typography */
+
+h1 {
+    color: darkslategray;
+}
+
+.special {
+    color: deepskyblue;
+}
