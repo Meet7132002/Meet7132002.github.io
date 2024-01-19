@@ -1,0 +1,31 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #B284BF;
+    /* background: url(images/); */
+}
+
+/* Navigation */
+
+#main-nav a {
+    /* removes the underline */
+    text-decoration: none;
+    color: #DDEAF3;
+}
+
+#main-nav a:hover {
+    background: #FF1493;
+}
+
+/* Typography */
+
+h1 {
+    color: #DDEAF3;
+}
+
+h2 {
+    color: #D8C5A5;
+}
+
+p {
+    color: #121D40;
+}
